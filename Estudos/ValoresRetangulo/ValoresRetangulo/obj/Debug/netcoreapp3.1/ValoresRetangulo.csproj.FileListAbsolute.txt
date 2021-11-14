@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\ValoresRetangulo\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\ValoresRetangulo\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\ValoresRetangulo\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\ValoresRetangulo\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\ValoresRetangulo\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\ValoresRetangulo\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\ValoresRetangulo\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\ValoresRetangulo\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\ValoresRetangulo\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\ValoresRetangulo\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\ValoresRetangulo\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\ValoresRetangulo\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\ValoresRetangulo\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\ValoresRetangulo\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.genruntimeconfig.cache
