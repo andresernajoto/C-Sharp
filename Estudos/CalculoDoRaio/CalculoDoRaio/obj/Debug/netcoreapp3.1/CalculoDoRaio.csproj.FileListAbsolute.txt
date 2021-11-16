@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\CalculoDoRaio\CalculoDoRaio\bin\Debug\netcoreapp3.1\CalculoDoRaio.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\CalculoDoRaio\CalculoDoRaio\bin\Debug\netcoreapp3.1\CalculoDoRaio.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\CalculoDoRaio\CalculoDoRaio\bin\Debug\netcoreapp3.1\CalculoDoRaio.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\CalculoDoRaio\CalculoDoRaio\bin\Debug\netcoreapp3.1\CalculoDoRaio.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\CalculoDoRaio\CalculoDoRaio\bin\Debug\netcoreapp3.1\CalculoDoRaio.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\CalculoDoRaio\CalculoDoRaio\bin\Debug\netcoreapp3.1\CalculoDoRaio.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\CalculoDoRaio\CalculoDoRaio\obj\Debug\netcoreapp3.1\CalculoDoRaio.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\CalculoDoRaio\CalculoDoRaio\obj\Debug\netcoreapp3.1\CalculoDoRaio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\CalculoDoRaio\CalculoDoRaio\obj\Debug\netcoreapp3.1\CalculoDoRaio.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\CalculoDoRaio\CalculoDoRaio\obj\Debug\netcoreapp3.1\CalculoDoRaio.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\CalculoDoRaio\CalculoDoRaio\obj\Debug\netcoreapp3.1\CalculoDoRaio.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\CalculoDoRaio\CalculoDoRaio\obj\Debug\netcoreapp3.1\CalculoDoRaio.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\CalculoDoRaio\CalculoDoRaio\obj\Debug\netcoreapp3.1\CalculoDoRaio.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\CalculoDoRaio\CalculoDoRaio\obj\Debug\netcoreapp3.1\CalculoDoRaio.genruntimeconfig.cache
