@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\CotacaoDolar\CotacaoDolar\bin\Debug\netcoreapp3.1\CotacaoDolar.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\CotacaoDolar\CotacaoDolar\obj\Debug\netcoreapp3.1\CotacaoDolar.genruntimeconfig.cache
