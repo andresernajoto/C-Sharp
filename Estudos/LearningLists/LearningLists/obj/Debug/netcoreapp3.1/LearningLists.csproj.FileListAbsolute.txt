@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningLists\LearningLists\bin\Debug\netcoreapp3.1\LearningLists.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningLists\LearningLists\bin\Debug\netcoreapp3.1\LearningLists.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningLists\LearningLists\bin\Debug\netcoreapp3.1\LearningLists.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningLists\LearningLists\bin\Debug\netcoreapp3.1\LearningLists.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningLists\LearningLists\bin\Debug\netcoreapp3.1\LearningLists.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningLists\LearningLists\bin\Debug\netcoreapp3.1\LearningLists.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningLists\LearningLists\obj\Debug\netcoreapp3.1\LearningLists.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningLists\LearningLists\obj\Debug\netcoreapp3.1\LearningLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningLists\LearningLists\obj\Debug\netcoreapp3.1\LearningLists.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningLists\LearningLists\obj\Debug\netcoreapp3.1\LearningLists.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningLists\LearningLists\obj\Debug\netcoreapp3.1\LearningLists.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningLists\LearningLists\obj\Debug\netcoreapp3.1\LearningLists.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningLists\LearningLists\obj\Debug\netcoreapp3.1\LearningLists.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningLists\LearningLists\obj\Debug\netcoreapp3.1\LearningLists.genruntimeconfig.cache
