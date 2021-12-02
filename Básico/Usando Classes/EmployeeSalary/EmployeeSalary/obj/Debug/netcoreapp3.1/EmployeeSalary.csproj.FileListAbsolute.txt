@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeeSalary\EmployeeSalary\bin\Debug\netcoreapp3.1\EmployeeSalary.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeeSalary\EmployeeSalary\bin\Debug\netcoreapp3.1\EmployeeSalary.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeeSalary\EmployeeSalary\bin\Debug\netcoreapp3.1\EmployeeSalary.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeeSalary\EmployeeSalary\bin\Debug\netcoreapp3.1\EmployeeSalary.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeeSalary\EmployeeSalary\bin\Debug\netcoreapp3.1\EmployeeSalary.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeeSalary\EmployeeSalary\bin\Debug\netcoreapp3.1\EmployeeSalary.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp3.1\EmployeeSalary.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp3.1\EmployeeSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp3.1\EmployeeSalary.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp3.1\EmployeeSalary.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp3.1\EmployeeSalary.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp3.1\EmployeeSalary.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp3.1\EmployeeSalary.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp3.1\EmployeeSalary.genruntimeconfig.cache

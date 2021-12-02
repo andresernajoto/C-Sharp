@@ -1,0 +1,13 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\AumentoSalarial\AumentoSalarial\bin\Debug\netcoreapp3.1\AumentoSalarial.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\AumentoSalarial\AumentoSalarial\bin\Debug\netcoreapp3.1\AumentoSalarial.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\AumentoSalarial\AumentoSalarial\bin\Debug\netcoreapp3.1\AumentoSalarial.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\AumentoSalarial\AumentoSalarial\bin\Debug\netcoreapp3.1\AumentoSalarial.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\AumentoSalarial\AumentoSalarial\bin\Debug\netcoreapp3.1\AumentoSalarial.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\AumentoSalarial\AumentoSalarial\bin\Debug\netcoreapp3.1\AumentoSalarial.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\AumentoSalarial\AumentoSalarial\obj\Debug\netcoreapp3.1\AumentoSalarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\AumentoSalarial\AumentoSalarial\obj\Debug\netcoreapp3.1\AumentoSalarial.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\AumentoSalarial\AumentoSalarial\obj\Debug\netcoreapp3.1\AumentoSalarial.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\AumentoSalarial\AumentoSalarial\obj\Debug\netcoreapp3.1\AumentoSalarial.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\AumentoSalarial\AumentoSalarial\obj\Debug\netcoreapp3.1\AumentoSalarial.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\AumentoSalarial\AumentoSalarial\obj\Debug\netcoreapp3.1\AumentoSalarial.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\AumentoSalarial\AumentoSalarial\obj\Debug\netcoreapp3.1\AumentoSalarial.genruntimeconfig.cache

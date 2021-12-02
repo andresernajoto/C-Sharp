@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\AprovadoOuReprovado\AprovadoOuReprovado\bin\Debug\netcoreapp3.1\AprovadoOuReprovado.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\AprovadoOuReprovado\AprovadoOuReprovado\bin\Debug\netcoreapp3.1\AprovadoOuReprovado.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\AprovadoOuReprovado\AprovadoOuReprovado\bin\Debug\netcoreapp3.1\AprovadoOuReprovado.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\AprovadoOuReprovado\AprovadoOuReprovado\bin\Debug\netcoreapp3.1\AprovadoOuReprovado.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\AprovadoOuReprovado\AprovadoOuReprovado\bin\Debug\netcoreapp3.1\AprovadoOuReprovado.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\AprovadoOuReprovado\AprovadoOuReprovado\bin\Debug\netcoreapp3.1\AprovadoOuReprovado.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\netcoreapp3.1\AprovadoOuReprovado.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\netcoreapp3.1\AprovadoOuReprovado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\netcoreapp3.1\AprovadoOuReprovado.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\netcoreapp3.1\AprovadoOuReprovado.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\netcoreapp3.1\AprovadoOuReprovado.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\netcoreapp3.1\AprovadoOuReprovado.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\netcoreapp3.1\AprovadoOuReprovado.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\AprovadoOuReprovado\AprovadoOuReprovado\obj\Debug\netcoreapp3.1\AprovadoOuReprovado.genruntimeconfig.cache

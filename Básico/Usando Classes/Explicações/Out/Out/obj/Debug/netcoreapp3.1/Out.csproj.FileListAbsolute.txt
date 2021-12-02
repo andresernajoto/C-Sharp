@@ -1,0 +1,13 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\Out\Out\bin\Debug\netcoreapp3.1\Out.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\Out\Out\bin\Debug\netcoreapp3.1\Out.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\Out\Out\bin\Debug\netcoreapp3.1\Out.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\Out\Out\bin\Debug\netcoreapp3.1\Out.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\Out\Out\bin\Debug\netcoreapp3.1\Out.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\Out\Out\bin\Debug\netcoreapp3.1\Out.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\Out\Out\obj\Debug\netcoreapp3.1\Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\Out\Out\obj\Debug\netcoreapp3.1\Out.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\Out\Out\obj\Debug\netcoreapp3.1\Out.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\Out\Out\obj\Debug\netcoreapp3.1\Out.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\Out\Out\obj\Debug\netcoreapp3.1\Out.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\Out\Out\obj\Debug\netcoreapp3.1\Out.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\Out\Out\obj\Debug\netcoreapp3.1\Out.genruntimeconfig.cache
