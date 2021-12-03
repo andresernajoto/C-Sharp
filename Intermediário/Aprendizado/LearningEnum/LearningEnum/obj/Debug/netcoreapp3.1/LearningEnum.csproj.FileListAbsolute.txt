@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningEnum\LearningEnum\bin\Debug\netcoreapp3.1\LearningEnum.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningEnum\LearningEnum\bin\Debug\netcoreapp3.1\LearningEnum.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningEnum\LearningEnum\bin\Debug\netcoreapp3.1\LearningEnum.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningEnum\LearningEnum\bin\Debug\netcoreapp3.1\LearningEnum.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningEnum\LearningEnum\bin\Debug\netcoreapp3.1\LearningEnum.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningEnum\LearningEnum\bin\Debug\netcoreapp3.1\LearningEnum.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningEnum\LearningEnum\obj\Debug\netcoreapp3.1\LearningEnum.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningEnum\LearningEnum\obj\Debug\netcoreapp3.1\LearningEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningEnum\LearningEnum\obj\Debug\netcoreapp3.1\LearningEnum.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningEnum\LearningEnum\obj\Debug\netcoreapp3.1\LearningEnum.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningEnum\LearningEnum\obj\Debug\netcoreapp3.1\LearningEnum.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningEnum\LearningEnum\obj\Debug\netcoreapp3.1\LearningEnum.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningEnum\LearningEnum\obj\Debug\netcoreapp3.1\LearningEnum.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\LearningEnum\LearningEnum\obj\Debug\netcoreapp3.1\LearningEnum.genruntimeconfig.cache

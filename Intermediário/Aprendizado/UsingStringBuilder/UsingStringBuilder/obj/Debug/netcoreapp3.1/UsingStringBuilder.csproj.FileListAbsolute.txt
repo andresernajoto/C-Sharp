@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\UsingStringBuilder\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\UsingStringBuilder\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\UsingStringBuilder\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\UsingStringBuilder\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\UsingStringBuilder\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\UsingStringBuilder\UsingStringBuilder\bin\Debug\netcoreapp3.1\UsingStringBuilder.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\UsingStringBuilder\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\UsingStringBuilder\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\UsingStringBuilder\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\UsingStringBuilder\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\UsingStringBuilder\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\UsingStringBuilder\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\UsingStringBuilder\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\UsingStringBuilder\UsingStringBuilder\obj\Debug\netcoreapp3.1\UsingStringBuilder.genruntimeconfig.cache

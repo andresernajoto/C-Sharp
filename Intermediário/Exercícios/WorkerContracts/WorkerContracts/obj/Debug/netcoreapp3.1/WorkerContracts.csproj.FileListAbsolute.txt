@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\WorkerContracts\WorkerContracts\bin\Debug\netcoreapp3.1\WorkerContracts.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\WorkerContracts\WorkerContracts\bin\Debug\netcoreapp3.1\WorkerContracts.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\WorkerContracts\WorkerContracts\bin\Debug\netcoreapp3.1\WorkerContracts.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\WorkerContracts\WorkerContracts\bin\Debug\netcoreapp3.1\WorkerContracts.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\WorkerContracts\WorkerContracts\bin\Debug\netcoreapp3.1\WorkerContracts.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\WorkerContracts\WorkerContracts\bin\Debug\netcoreapp3.1\WorkerContracts.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\WorkerContracts\WorkerContracts\obj\Debug\netcoreapp3.1\WorkerContracts.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\WorkerContracts\WorkerContracts\obj\Debug\netcoreapp3.1\WorkerContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\WorkerContracts\WorkerContracts\obj\Debug\netcoreapp3.1\WorkerContracts.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\WorkerContracts\WorkerContracts\obj\Debug\netcoreapp3.1\WorkerContracts.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\WorkerContracts\WorkerContracts\obj\Debug\netcoreapp3.1\WorkerContracts.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\WorkerContracts\WorkerContracts\obj\Debug\netcoreapp3.1\WorkerContracts.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\WorkerContracts\WorkerContracts\obj\Debug\netcoreapp3.1\WorkerContracts.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\WorkerContracts\WorkerContracts\obj\Debug\netcoreapp3.1\WorkerContracts.genruntimeconfig.cache

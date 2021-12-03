@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\OrderingProducts\OrderingProducts\obj\Debug\netcoreapp3.1\OrderingProducts.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\OrderingProducts\OrderingProducts\obj\Debug\netcoreapp3.1\OrderingProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\OrderingProducts\OrderingProducts\obj\Debug\netcoreapp3.1\OrderingProducts.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\OrderingProducts\OrderingProducts\obj\Debug\netcoreapp3.1\OrderingProducts.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\OrderingProducts\OrderingProducts\obj\Debug\netcoreapp3.1\OrderingProducts.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\OrderingProducts\OrderingProducts\bin\Debug\netcoreapp3.1\OrderingProducts.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\OrderingProducts\OrderingProducts\bin\Debug\netcoreapp3.1\OrderingProducts.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\OrderingProducts\OrderingProducts\bin\Debug\netcoreapp3.1\OrderingProducts.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\OrderingProducts\OrderingProducts\bin\Debug\netcoreapp3.1\OrderingProducts.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\OrderingProducts\OrderingProducts\bin\Debug\netcoreapp3.1\OrderingProducts.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\OrderingProducts\OrderingProducts\bin\Debug\netcoreapp3.1\OrderingProducts.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\OrderingProducts\OrderingProducts\obj\Debug\netcoreapp3.1\OrderingProducts.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\OrderingProducts\OrderingProducts\obj\Debug\netcoreapp3.1\OrderingProducts.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\OrderingProducts\OrderingProducts\obj\Debug\netcoreapp3.1\OrderingProducts.genruntimeconfig.cache
