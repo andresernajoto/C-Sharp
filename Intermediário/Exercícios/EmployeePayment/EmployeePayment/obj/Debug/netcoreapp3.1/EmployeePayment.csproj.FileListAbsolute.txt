@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.genruntimeconfig.cache
