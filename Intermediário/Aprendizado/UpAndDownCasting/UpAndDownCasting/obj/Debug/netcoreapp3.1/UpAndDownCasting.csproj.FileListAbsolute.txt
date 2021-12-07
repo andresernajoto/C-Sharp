@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\UpAndDownCasting\UpAndDownCasting\obj\Debug\netcoreapp3.1\UpAndDownCasting.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\UpAndDownCasting\UpAndDownCasting\obj\Debug\netcoreapp3.1\UpAndDownCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\UpAndDownCasting\UpAndDownCasting\obj\Debug\netcoreapp3.1\UpAndDownCasting.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\UpAndDownCasting\UpAndDownCasting\obj\Debug\netcoreapp3.1\UpAndDownCasting.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\UpAndDownCasting\UpAndDownCasting\obj\Debug\netcoreapp3.1\UpAndDownCasting.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\UpAndDownCasting\UpAndDownCasting\bin\Debug\netcoreapp3.1\UpAndDownCasting.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\UpAndDownCasting\UpAndDownCasting\bin\Debug\netcoreapp3.1\UpAndDownCasting.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\UpAndDownCasting\UpAndDownCasting\bin\Debug\netcoreapp3.1\UpAndDownCasting.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\UpAndDownCasting\UpAndDownCasting\bin\Debug\netcoreapp3.1\UpAndDownCasting.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\UpAndDownCasting\UpAndDownCasting\bin\Debug\netcoreapp3.1\UpAndDownCasting.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\UpAndDownCasting\UpAndDownCasting\bin\Debug\netcoreapp3.1\UpAndDownCasting.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\UpAndDownCasting\UpAndDownCasting\obj\Debug\netcoreapp3.1\UpAndDownCasting.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\UpAndDownCasting\UpAndDownCasting\obj\Debug\netcoreapp3.1\UpAndDownCasting.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\UpAndDownCasting\UpAndDownCasting\obj\Debug\netcoreapp3.1\UpAndDownCasting.genruntimeconfig.cache
