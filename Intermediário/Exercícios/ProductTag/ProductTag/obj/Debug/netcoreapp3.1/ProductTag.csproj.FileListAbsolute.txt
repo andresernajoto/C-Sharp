@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\ProductTag\ProductTag\bin\Debug\netcoreapp3.1\ProductTag.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\ProductTag\ProductTag\bin\Debug\netcoreapp3.1\ProductTag.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\ProductTag\ProductTag\bin\Debug\netcoreapp3.1\ProductTag.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\ProductTag\ProductTag\bin\Debug\netcoreapp3.1\ProductTag.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\ProductTag\ProductTag\bin\Debug\netcoreapp3.1\ProductTag.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\ProductTag\ProductTag\bin\Debug\netcoreapp3.1\ProductTag.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\ProductTag\ProductTag\obj\Debug\netcoreapp3.1\ProductTag.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\ProductTag\ProductTag\obj\Debug\netcoreapp3.1\ProductTag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\ProductTag\ProductTag\obj\Debug\netcoreapp3.1\ProductTag.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\ProductTag\ProductTag\obj\Debug\netcoreapp3.1\ProductTag.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\ProductTag\ProductTag\obj\Debug\netcoreapp3.1\ProductTag.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\ProductTag\ProductTag\obj\Debug\netcoreapp3.1\ProductTag.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\ProductTag\ProductTag\obj\Debug\netcoreapp3.1\ProductTag.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\ProductTag\ProductTag\obj\Debug\netcoreapp3.1\ProductTag.genruntimeconfig.cache
