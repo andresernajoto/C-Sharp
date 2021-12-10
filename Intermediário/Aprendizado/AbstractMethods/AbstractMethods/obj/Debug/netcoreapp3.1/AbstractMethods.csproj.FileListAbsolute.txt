@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\AbstractMethods\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\AbstractMethods\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\AbstractMethods\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\AbstractMethods\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\AbstractMethods\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\AbstractMethods\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\AbstractMethods\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\AbstractMethods\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\AbstractMethods\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\AbstractMethods\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\AbstractMethods\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\AbstractMethods\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\AbstractMethods\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\AbstractMethods\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.genruntimeconfig.cache
