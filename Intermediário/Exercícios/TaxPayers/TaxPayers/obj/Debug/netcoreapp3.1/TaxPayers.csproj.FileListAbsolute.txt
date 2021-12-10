@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\TaxPayers\TaxPayers\bin\Debug\netcoreapp3.1\TaxPayers.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\TaxPayers\TaxPayers\bin\Debug\netcoreapp3.1\TaxPayers.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\TaxPayers\TaxPayers\bin\Debug\netcoreapp3.1\TaxPayers.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\TaxPayers\TaxPayers\bin\Debug\netcoreapp3.1\TaxPayers.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\TaxPayers\TaxPayers\bin\Debug\netcoreapp3.1\TaxPayers.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\TaxPayers\TaxPayers\bin\Debug\netcoreapp3.1\TaxPayers.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\TaxPayers\TaxPayers\obj\Debug\netcoreapp3.1\TaxPayers.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\TaxPayers\TaxPayers\obj\Debug\netcoreapp3.1\TaxPayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\TaxPayers\TaxPayers\obj\Debug\netcoreapp3.1\TaxPayers.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\TaxPayers\TaxPayers\obj\Debug\netcoreapp3.1\TaxPayers.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\TaxPayers\TaxPayers\obj\Debug\netcoreapp3.1\TaxPayers.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\TaxPayers\TaxPayers\obj\Debug\netcoreapp3.1\TaxPayers.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\TaxPayers\TaxPayers\obj\Debug\netcoreapp3.1\TaxPayers.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\TaxPayers\TaxPayers\obj\Debug\netcoreapp3.1\TaxPayers.genruntimeconfig.cache
