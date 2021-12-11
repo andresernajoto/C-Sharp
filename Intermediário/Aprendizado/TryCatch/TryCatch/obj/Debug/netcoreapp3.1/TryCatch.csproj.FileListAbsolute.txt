@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\TryCatch\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\TryCatch\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.genruntimeconfig.cache
