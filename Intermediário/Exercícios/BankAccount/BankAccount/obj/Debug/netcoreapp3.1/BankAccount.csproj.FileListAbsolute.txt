@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.genruntimeconfig.cache
