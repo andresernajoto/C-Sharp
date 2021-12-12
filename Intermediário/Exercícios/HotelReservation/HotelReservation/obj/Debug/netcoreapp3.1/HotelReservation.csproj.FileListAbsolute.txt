@@ -1,0 +1,14 @@
+C:\Temp\ws-vs2019\Projetos\Exercícios\HotelReservation\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.exe
+C:\Temp\ws-vs2019\Projetos\Exercícios\HotelReservation\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.deps.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\HotelReservation\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.runtimeconfig.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\HotelReservation\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.runtimeconfig.dev.json
+C:\Temp\ws-vs2019\Projetos\Exercícios\HotelReservation\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\HotelReservation\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\Projetos\Exercícios\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.AssemblyInfo.cs
+C:\Temp\ws-vs2019\Projetos\Exercícios\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\Projetos\Exercícios\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.dll
+C:\Temp\ws-vs2019\Projetos\Exercícios\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.pdb
+C:\Temp\ws-vs2019\Projetos\Exercícios\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.genruntimeconfig.cache
