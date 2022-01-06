@@ -1,0 +1,15 @@
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\WorkingWithFiles\WorkingWithFiles\bin\Debug\net6.0\WorkingWithFiles.exe
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\WorkingWithFiles\WorkingWithFiles\bin\Debug\net6.0\WorkingWithFiles.deps.json
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\WorkingWithFiles\WorkingWithFiles\bin\Debug\net6.0\WorkingWithFiles.runtimeconfig.json
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\WorkingWithFiles\WorkingWithFiles\bin\Debug\net6.0\WorkingWithFiles.dll
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\WorkingWithFiles\WorkingWithFiles\bin\Debug\net6.0\ref\WorkingWithFiles.dll
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\WorkingWithFiles\WorkingWithFiles\bin\Debug\net6.0\WorkingWithFiles.pdb
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\WorkingWithFiles\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.csproj.AssemblyReference.cache
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\WorkingWithFiles\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\WorkingWithFiles\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.AssemblyInfoInputs.cache
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\WorkingWithFiles\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.AssemblyInfo.cs
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\WorkingWithFiles\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.csproj.CoreCompileInputs.cache
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\WorkingWithFiles\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.dll
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\WorkingWithFiles\WorkingWithFiles\obj\Debug\net6.0\ref\WorkingWithFiles.dll
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\WorkingWithFiles\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.pdb
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\WorkingWithFiles\WorkingWithFiles\obj\Debug\net6.0\WorkingWithFiles.genruntimeconfig.cache
