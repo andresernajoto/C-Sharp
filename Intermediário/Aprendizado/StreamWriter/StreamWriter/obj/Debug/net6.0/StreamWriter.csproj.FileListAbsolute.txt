@@ -1,0 +1,15 @@
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\StreamWriter\StreamWriter\bin\Debug\net6.0\StreamWriter.exe
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\StreamWriter\StreamWriter\bin\Debug\net6.0\StreamWriter.deps.json
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\StreamWriter\StreamWriter\bin\Debug\net6.0\StreamWriter.runtimeconfig.json
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\StreamWriter\StreamWriter\bin\Debug\net6.0\StreamWriter.dll
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\StreamWriter\StreamWriter\bin\Debug\net6.0\ref\StreamWriter.dll
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\StreamWriter\StreamWriter\bin\Debug\net6.0\StreamWriter.pdb
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.csproj.AssemblyReference.cache
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.AssemblyInfoInputs.cache
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.AssemblyInfo.cs
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.csproj.CoreCompileInputs.cache
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.dll
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\StreamWriter\StreamWriter\obj\Debug\net6.0\ref\StreamWriter.dll
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.pdb
+D:\.Downloads\Pessoal\Estudos\Programming\C#\Exercícios\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.genruntimeconfig.cache
