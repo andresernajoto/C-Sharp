@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\CarRental-NoInterface\CarRental-NoInterface\bin\Debug\netcoreapp3.1\CarRental-NoInterface.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\CarRental-NoInterface\CarRental-NoInterface\bin\Debug\netcoreapp3.1\CarRental-NoInterface.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\CarRental-NoInterface\CarRental-NoInterface\bin\Debug\netcoreapp3.1\CarRental-NoInterface.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\CarRental-NoInterface\CarRental-NoInterface\bin\Debug\netcoreapp3.1\CarRental-NoInterface.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\CarRental-NoInterface\CarRental-NoInterface\bin\Debug\netcoreapp3.1\CarRental-NoInterface.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\CarRental-NoInterface\CarRental-NoInterface\bin\Debug\netcoreapp3.1\CarRental-NoInterface.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\CarRental-NoInterface\CarRental-NoInterface\obj\Debug\netcoreapp3.1\CarRental-NoInterface.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\CarRental-NoInterface\CarRental-NoInterface\obj\Debug\netcoreapp3.1\CarRental-NoInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\CarRental-NoInterface\CarRental-NoInterface\obj\Debug\netcoreapp3.1\CarRental-NoInterface.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\CarRental-NoInterface\CarRental-NoInterface\obj\Debug\netcoreapp3.1\CarRental-NoInterface.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\CarRental-NoInterface\CarRental-NoInterface\obj\Debug\netcoreapp3.1\CarRental-NoInterface.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\CarRental-NoInterface\CarRental-NoInterface\obj\Debug\netcoreapp3.1\CarRental-NoInterface.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\CarRental-NoInterface\CarRental-NoInterface\obj\Debug\netcoreapp3.1\CarRental-NoInterface.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\CarRental-NoInterface\CarRental-NoInterface\obj\Debug\netcoreapp3.1\CarRental-NoInterface.genruntimeconfig.cache
