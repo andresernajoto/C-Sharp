@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InheritanceAndInterface\InheritanceAndInterface\bin\Debug\netcoreapp3.1\InheritanceAndInterface.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InheritanceAndInterface\InheritanceAndInterface\bin\Debug\netcoreapp3.1\InheritanceAndInterface.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InheritanceAndInterface\InheritanceAndInterface\bin\Debug\netcoreapp3.1\InheritanceAndInterface.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InheritanceAndInterface\InheritanceAndInterface\bin\Debug\netcoreapp3.1\InheritanceAndInterface.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InheritanceAndInterface\InheritanceAndInterface\bin\Debug\netcoreapp3.1\InheritanceAndInterface.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InheritanceAndInterface\InheritanceAndInterface\bin\Debug\netcoreapp3.1\InheritanceAndInterface.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InheritanceAndInterface\InheritanceAndInterface\obj\Debug\netcoreapp3.1\InheritanceAndInterface.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InheritanceAndInterface\InheritanceAndInterface\obj\Debug\netcoreapp3.1\InheritanceAndInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InheritanceAndInterface\InheritanceAndInterface\obj\Debug\netcoreapp3.1\InheritanceAndInterface.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InheritanceAndInterface\InheritanceAndInterface\obj\Debug\netcoreapp3.1\InheritanceAndInterface.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InheritanceAndInterface\InheritanceAndInterface\obj\Debug\netcoreapp3.1\InheritanceAndInterface.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InheritanceAndInterface\InheritanceAndInterface\obj\Debug\netcoreapp3.1\InheritanceAndInterface.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InheritanceAndInterface\InheritanceAndInterface\obj\Debug\netcoreapp3.1\InheritanceAndInterface.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InheritanceAndInterface\InheritanceAndInterface\obj\Debug\netcoreapp3.1\InheritanceAndInterface.genruntimeconfig.cache
