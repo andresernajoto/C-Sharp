@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ContractsData\ContractsData\obj\Debug\netcoreapp3.1\ContractsData.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ContractsData\ContractsData\obj\Debug\netcoreapp3.1\ContractsData.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ContractsData\ContractsData\obj\Debug\netcoreapp3.1\ContractsData.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ContractsData\ContractsData\obj\Debug\netcoreapp3.1\ContractsData.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ContractsData\ContractsData\obj\Debug\netcoreapp3.1\ContractsData.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ContractsData\ContractsData\bin\Debug\netcoreapp3.1\ContractsData.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ContractsData\ContractsData\bin\Debug\netcoreapp3.1\ContractsData.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ContractsData\ContractsData\bin\Debug\netcoreapp3.1\ContractsData.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ContractsData\ContractsData\bin\Debug\netcoreapp3.1\ContractsData.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ContractsData\ContractsData\bin\Debug\netcoreapp3.1\ContractsData.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ContractsData\ContractsData\bin\Debug\netcoreapp3.1\ContractsData.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ContractsData\ContractsData\obj\Debug\netcoreapp3.1\ContractsData.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ContractsData\ContractsData\obj\Debug\netcoreapp3.1\ContractsData.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ContractsData\ContractsData\obj\Debug\netcoreapp3.1\ContractsData.genruntimeconfig.cache
