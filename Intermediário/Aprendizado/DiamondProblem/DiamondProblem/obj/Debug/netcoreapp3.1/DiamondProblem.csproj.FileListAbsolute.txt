@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DiamondProblem\DiamondProblem\bin\Debug\netcoreapp3.1\DiamondProblem.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DiamondProblem\DiamondProblem\bin\Debug\netcoreapp3.1\DiamondProblem.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DiamondProblem\DiamondProblem\bin\Debug\netcoreapp3.1\DiamondProblem.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DiamondProblem\DiamondProblem\bin\Debug\netcoreapp3.1\DiamondProblem.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DiamondProblem\DiamondProblem\bin\Debug\netcoreapp3.1\DiamondProblem.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DiamondProblem\DiamondProblem\bin\Debug\netcoreapp3.1\DiamondProblem.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DiamondProblem\DiamondProblem\obj\Debug\netcoreapp3.1\DiamondProblem.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DiamondProblem\DiamondProblem\obj\Debug\netcoreapp3.1\DiamondProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DiamondProblem\DiamondProblem\obj\Debug\netcoreapp3.1\DiamondProblem.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DiamondProblem\DiamondProblem\obj\Debug\netcoreapp3.1\DiamondProblem.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DiamondProblem\DiamondProblem\obj\Debug\netcoreapp3.1\DiamondProblem.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DiamondProblem\DiamondProblem\obj\Debug\netcoreapp3.1\DiamondProblem.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DiamondProblem\DiamondProblem\obj\Debug\netcoreapp3.1\DiamondProblem.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DiamondProblem\DiamondProblem\obj\Debug\netcoreapp3.1\DiamondProblem.genruntimeconfig.cache
