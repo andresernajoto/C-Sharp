@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable2\InterfaceIComparable2\bin\Debug\netcoreapp3.1\InterfaceIComparable2.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable2\InterfaceIComparable2\bin\Debug\netcoreapp3.1\InterfaceIComparable2.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable2\InterfaceIComparable2\bin\Debug\netcoreapp3.1\InterfaceIComparable2.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable2\InterfaceIComparable2\bin\Debug\netcoreapp3.1\InterfaceIComparable2.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable2\InterfaceIComparable2\bin\Debug\netcoreapp3.1\InterfaceIComparable2.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable2\InterfaceIComparable2\bin\Debug\netcoreapp3.1\InterfaceIComparable2.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable2\InterfaceIComparable2\obj\Debug\netcoreapp3.1\InterfaceIComparable2.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable2\InterfaceIComparable2\obj\Debug\netcoreapp3.1\InterfaceIComparable2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable2\InterfaceIComparable2\obj\Debug\netcoreapp3.1\InterfaceIComparable2.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable2\InterfaceIComparable2\obj\Debug\netcoreapp3.1\InterfaceIComparable2.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable2\InterfaceIComparable2\obj\Debug\netcoreapp3.1\InterfaceIComparable2.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable2\InterfaceIComparable2\obj\Debug\netcoreapp3.1\InterfaceIComparable2.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable2\InterfaceIComparable2\obj\Debug\netcoreapp3.1\InterfaceIComparable2.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable2\InterfaceIComparable2\obj\Debug\netcoreapp3.1\InterfaceIComparable2.genruntimeconfig.cache
