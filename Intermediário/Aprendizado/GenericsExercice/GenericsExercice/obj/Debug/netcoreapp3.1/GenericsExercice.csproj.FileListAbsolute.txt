@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsExercice\GenericsExercice\obj\Debug\netcoreapp3.1\GenericsExercice.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsExercice\GenericsExercice\obj\Debug\netcoreapp3.1\GenericsExercice.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsExercice\GenericsExercice\obj\Debug\netcoreapp3.1\GenericsExercice.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsExercice\GenericsExercice\obj\Debug\netcoreapp3.1\GenericsExercice.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsExercice\GenericsExercice\obj\Debug\netcoreapp3.1\GenericsExercice.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsExercice\GenericsExercice\bin\Debug\netcoreapp3.1\GenericsExercice.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsExercice\GenericsExercice\bin\Debug\netcoreapp3.1\GenericsExercice.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsExercice\GenericsExercice\bin\Debug\netcoreapp3.1\GenericsExercice.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsExercice\GenericsExercice\bin\Debug\netcoreapp3.1\GenericsExercice.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsExercice\GenericsExercice\bin\Debug\netcoreapp3.1\GenericsExercice.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsExercice\GenericsExercice\bin\Debug\netcoreapp3.1\GenericsExercice.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsExercice\GenericsExercice\obj\Debug\netcoreapp3.1\GenericsExercice.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsExercice\GenericsExercice\obj\Debug\netcoreapp3.1\GenericsExercice.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsExercice\GenericsExercice\obj\Debug\netcoreapp3.1\GenericsExercice.genruntimeconfig.cache

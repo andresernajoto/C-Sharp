@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GenericsExercice/1.0.0": {
+        "runtime": {
+          "GenericsExercice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericsExercice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
