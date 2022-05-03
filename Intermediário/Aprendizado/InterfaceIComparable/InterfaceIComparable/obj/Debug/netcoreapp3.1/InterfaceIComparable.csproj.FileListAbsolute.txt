@@ -1,0 +1,13 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable\InterfaceIComparable\bin\Debug\netcoreapp3.1\InterfaceIComparable.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\InterfaceIComparable\InterfaceIComparable\obj\Debug\netcoreapp3.1\InterfaceIComparable.genruntimeconfig.cache
