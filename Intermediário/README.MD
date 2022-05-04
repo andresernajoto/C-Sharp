@@ -1,5 +1,9 @@
 # Conteúdo
 
- O conteúdo da pasta de nível Intermediário trata-se sobre exercícios que estou resolvendo com base em conceitos orientados a objetos e sobre conceitos novos que vou aprendendo.
-
- Os conteúdos estão separados entre as pastas acima, que facilitam na visualização e busca do resultado procurado.
+O conteúdo a seguir trata-se sobre a solução de exercícios de nível intermediário na linguagem C#. Abordado conceitos como:
+* Enumerações e Composições;
+* Herança e Polimorfismo;
+* Tratamento de Exceções;
+* Manipulação de arquivos;
+* Interfaces;
+* Generics, SET e Dictionaries.
