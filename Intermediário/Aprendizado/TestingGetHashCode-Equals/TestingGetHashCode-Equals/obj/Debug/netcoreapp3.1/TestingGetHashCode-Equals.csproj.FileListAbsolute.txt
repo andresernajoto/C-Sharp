@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\TestingGetHashCode-Equals\TestingGetHashCode-Equals\bin\Debug\netcoreapp3.1\TestingGetHashCode-Equals.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\TestingGetHashCode-Equals\TestingGetHashCode-Equals\bin\Debug\netcoreapp3.1\TestingGetHashCode-Equals.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\TestingGetHashCode-Equals\TestingGetHashCode-Equals\bin\Debug\netcoreapp3.1\TestingGetHashCode-Equals.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\TestingGetHashCode-Equals\TestingGetHashCode-Equals\bin\Debug\netcoreapp3.1\TestingGetHashCode-Equals.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\TestingGetHashCode-Equals\TestingGetHashCode-Equals\bin\Debug\netcoreapp3.1\TestingGetHashCode-Equals.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\TestingGetHashCode-Equals\TestingGetHashCode-Equals\bin\Debug\netcoreapp3.1\TestingGetHashCode-Equals.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\TestingGetHashCode-Equals\TestingGetHashCode-Equals\obj\Debug\netcoreapp3.1\TestingGetHashCode-Equals.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\TestingGetHashCode-Equals\TestingGetHashCode-Equals\obj\Debug\netcoreapp3.1\TestingGetHashCode-Equals.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\TestingGetHashCode-Equals\TestingGetHashCode-Equals\obj\Debug\netcoreapp3.1\TestingGetHashCode-Equals.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\TestingGetHashCode-Equals\TestingGetHashCode-Equals\obj\Debug\netcoreapp3.1\TestingGetHashCode-Equals.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\TestingGetHashCode-Equals\TestingGetHashCode-Equals\obj\Debug\netcoreapp3.1\TestingGetHashCode-Equals.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\TestingGetHashCode-Equals\TestingGetHashCode-Equals\obj\Debug\netcoreapp3.1\TestingGetHashCode-Equals.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\TestingGetHashCode-Equals\TestingGetHashCode-Equals\obj\Debug\netcoreapp3.1\TestingGetHashCode-Equals.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\TestingGetHashCode-Equals\TestingGetHashCode-Equals\obj\Debug\netcoreapp3.1\TestingGetHashCode-Equals.genruntimeconfig.cache
