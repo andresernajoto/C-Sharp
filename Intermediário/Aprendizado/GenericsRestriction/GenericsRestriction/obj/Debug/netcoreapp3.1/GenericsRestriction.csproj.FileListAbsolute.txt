@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsRestriction\GenericsRestriction\bin\Debug\netcoreapp3.1\GenericsRestriction.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsRestriction\GenericsRestriction\bin\Debug\netcoreapp3.1\GenericsRestriction.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsRestriction\GenericsRestriction\bin\Debug\netcoreapp3.1\GenericsRestriction.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsRestriction\GenericsRestriction\bin\Debug\netcoreapp3.1\GenericsRestriction.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsRestriction\GenericsRestriction\bin\Debug\netcoreapp3.1\GenericsRestriction.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsRestriction\GenericsRestriction\bin\Debug\netcoreapp3.1\GenericsRestriction.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsRestriction\GenericsRestriction\obj\Debug\netcoreapp3.1\GenericsRestriction.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsRestriction\GenericsRestriction\obj\Debug\netcoreapp3.1\GenericsRestriction.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsRestriction\GenericsRestriction\obj\Debug\netcoreapp3.1\GenericsRestriction.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsRestriction\GenericsRestriction\obj\Debug\netcoreapp3.1\GenericsRestriction.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsRestriction\GenericsRestriction\obj\Debug\netcoreapp3.1\GenericsRestriction.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsRestriction\GenericsRestriction\obj\Debug\netcoreapp3.1\GenericsRestriction.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsRestriction\GenericsRestriction\obj\Debug\netcoreapp3.1\GenericsRestriction.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\GenericsRestriction\GenericsRestriction\obj\Debug\netcoreapp3.1\GenericsRestriction.genruntimeconfig.cache
