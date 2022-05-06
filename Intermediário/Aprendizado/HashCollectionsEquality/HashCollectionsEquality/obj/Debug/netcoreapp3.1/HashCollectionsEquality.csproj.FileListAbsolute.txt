@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\HashCollectionsEquality\HashCollectionsEquality\bin\Debug\netcoreapp3.1\HashCollectionsEquality.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\HashCollectionsEquality\HashCollectionsEquality\bin\Debug\netcoreapp3.1\HashCollectionsEquality.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\HashCollectionsEquality\HashCollectionsEquality\bin\Debug\netcoreapp3.1\HashCollectionsEquality.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\HashCollectionsEquality\HashCollectionsEquality\bin\Debug\netcoreapp3.1\HashCollectionsEquality.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\HashCollectionsEquality\HashCollectionsEquality\bin\Debug\netcoreapp3.1\HashCollectionsEquality.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\HashCollectionsEquality\HashCollectionsEquality\bin\Debug\netcoreapp3.1\HashCollectionsEquality.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\HashCollectionsEquality\HashCollectionsEquality\obj\Debug\netcoreapp3.1\HashCollectionsEquality.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\HashCollectionsEquality\HashCollectionsEquality\obj\Debug\netcoreapp3.1\HashCollectionsEquality.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\HashCollectionsEquality\HashCollectionsEquality\obj\Debug\netcoreapp3.1\HashCollectionsEquality.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\HashCollectionsEquality\HashCollectionsEquality\obj\Debug\netcoreapp3.1\HashCollectionsEquality.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\HashCollectionsEquality\HashCollectionsEquality\obj\Debug\netcoreapp3.1\HashCollectionsEquality.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\HashCollectionsEquality\HashCollectionsEquality\obj\Debug\netcoreapp3.1\HashCollectionsEquality.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\HashCollectionsEquality\HashCollectionsEquality\obj\Debug\netcoreapp3.1\HashCollectionsEquality.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\HashCollectionsEquality\HashCollectionsEquality\obj\Debug\netcoreapp3.1\HashCollectionsEquality.genruntimeconfig.cache
