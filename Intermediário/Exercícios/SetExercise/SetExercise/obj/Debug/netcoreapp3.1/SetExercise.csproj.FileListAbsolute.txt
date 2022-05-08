@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\SetExercise\SetExercise\bin\Debug\netcoreapp3.1\SetExercise.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\SetExercise\SetExercise\bin\Debug\netcoreapp3.1\SetExercise.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\SetExercise\SetExercise\bin\Debug\netcoreapp3.1\SetExercise.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\SetExercise\SetExercise\bin\Debug\netcoreapp3.1\SetExercise.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\SetExercise\SetExercise\bin\Debug\netcoreapp3.1\SetExercise.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\SetExercise\SetExercise\bin\Debug\netcoreapp3.1\SetExercise.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\SetExercise\SetExercise\obj\Debug\netcoreapp3.1\SetExercise.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\SetExercise\SetExercise\obj\Debug\netcoreapp3.1\SetExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\SetExercise\SetExercise\obj\Debug\netcoreapp3.1\SetExercise.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\SetExercise\SetExercise\obj\Debug\netcoreapp3.1\SetExercise.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\SetExercise\SetExercise\obj\Debug\netcoreapp3.1\SetExercise.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\SetExercise\SetExercise\obj\Debug\netcoreapp3.1\SetExercise.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\SetExercise\SetExercise\obj\Debug\netcoreapp3.1\SetExercise.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\SetExercise\SetExercise\obj\Debug\netcoreapp3.1\SetExercise.genruntimeconfig.cache
