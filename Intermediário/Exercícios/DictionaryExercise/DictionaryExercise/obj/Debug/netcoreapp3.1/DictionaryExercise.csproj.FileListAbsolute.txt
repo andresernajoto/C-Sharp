@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DictionaryExercise\DictionaryExercise\bin\Debug\netcoreapp3.1\DictionaryExercise.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DictionaryExercise\DictionaryExercise\bin\Debug\netcoreapp3.1\DictionaryExercise.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DictionaryExercise\DictionaryExercise\bin\Debug\netcoreapp3.1\DictionaryExercise.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DictionaryExercise\DictionaryExercise\bin\Debug\netcoreapp3.1\DictionaryExercise.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DictionaryExercise\DictionaryExercise\bin\Debug\netcoreapp3.1\DictionaryExercise.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DictionaryExercise\DictionaryExercise\bin\Debug\netcoreapp3.1\DictionaryExercise.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DictionaryExercise\DictionaryExercise\obj\Debug\netcoreapp3.1\DictionaryExercise.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DictionaryExercise\DictionaryExercise\obj\Debug\netcoreapp3.1\DictionaryExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DictionaryExercise\DictionaryExercise\obj\Debug\netcoreapp3.1\DictionaryExercise.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DictionaryExercise\DictionaryExercise\obj\Debug\netcoreapp3.1\DictionaryExercise.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DictionaryExercise\DictionaryExercise\obj\Debug\netcoreapp3.1\DictionaryExercise.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DictionaryExercise\DictionaryExercise\obj\Debug\netcoreapp3.1\DictionaryExercise.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DictionaryExercise\DictionaryExercise\obj\Debug\netcoreapp3.1\DictionaryExercise.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\DictionaryExercise\DictionaryExercise\obj\Debug\netcoreapp3.1\DictionaryExercise.genruntimeconfig.cache
