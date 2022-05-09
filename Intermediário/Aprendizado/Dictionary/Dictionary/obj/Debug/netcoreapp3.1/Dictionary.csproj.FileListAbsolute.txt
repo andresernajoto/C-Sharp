@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache
