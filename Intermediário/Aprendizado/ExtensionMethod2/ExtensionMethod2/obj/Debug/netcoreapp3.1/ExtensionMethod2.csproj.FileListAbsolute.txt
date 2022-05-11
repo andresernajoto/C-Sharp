@@ -1,0 +1,13 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod2\ExtensionMethod2\obj\Debug\netcoreapp3.1\ExtensionMethod2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod2\ExtensionMethod2\obj\Debug\netcoreapp3.1\ExtensionMethod2.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod2\ExtensionMethod2\obj\Debug\netcoreapp3.1\ExtensionMethod2.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod2\ExtensionMethod2\obj\Debug\netcoreapp3.1\ExtensionMethod2.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod2\ExtensionMethod2\bin\Debug\netcoreapp3.1\ExtensionMethod2.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod2\ExtensionMethod2\bin\Debug\netcoreapp3.1\ExtensionMethod2.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod2\ExtensionMethod2\bin\Debug\netcoreapp3.1\ExtensionMethod2.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod2\ExtensionMethod2\bin\Debug\netcoreapp3.1\ExtensionMethod2.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod2\ExtensionMethod2\bin\Debug\netcoreapp3.1\ExtensionMethod2.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod2\ExtensionMethod2\bin\Debug\netcoreapp3.1\ExtensionMethod2.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod2\ExtensionMethod2\obj\Debug\netcoreapp3.1\ExtensionMethod2.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod2\ExtensionMethod2\obj\Debug\netcoreapp3.1\ExtensionMethod2.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod2\ExtensionMethod2\obj\Debug\netcoreapp3.1\ExtensionMethod2.genruntimeconfig.cache
