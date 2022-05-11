@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod\ExtensionMethod\bin\Debug\netcoreapp3.1\ExtensionMethod.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Exercícios\ExtensionMethod\ExtensionMethod\obj\Debug\netcoreapp3.1\ExtensionMethod.genruntimeconfig.cache
