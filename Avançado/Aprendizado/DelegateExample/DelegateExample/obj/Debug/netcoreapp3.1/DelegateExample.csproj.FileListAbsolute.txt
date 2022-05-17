@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\DelegateExample\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\DelegateExample\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\DelegateExample\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\DelegateExample\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\DelegateExample\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\DelegateExample\DelegateExample\bin\Debug\netcoreapp3.1\DelegateExample.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\DelegateExample\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\DelegateExample\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\DelegateExample\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\DelegateExample\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\DelegateExample\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\DelegateExample\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\DelegateExample\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\DelegateExample\DelegateExample\obj\Debug\netcoreapp3.1\DelegateExample.genruntimeconfig.cache
