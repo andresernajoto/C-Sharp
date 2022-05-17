@@ -1,0 +1,13 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\MultiDelegates\MultiDelegates\bin\Debug\netcoreapp3.1\MultiDelegates.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\MultiDelegates\MultiDelegates\bin\Debug\netcoreapp3.1\MultiDelegates.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\MultiDelegates\MultiDelegates\bin\Debug\netcoreapp3.1\MultiDelegates.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\MultiDelegates\MultiDelegates\bin\Debug\netcoreapp3.1\MultiDelegates.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\MultiDelegates\MultiDelegates\bin\Debug\netcoreapp3.1\MultiDelegates.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\MultiDelegates\MultiDelegates\bin\Debug\netcoreapp3.1\MultiDelegates.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\MultiDelegates\MultiDelegates\obj\Debug\netcoreapp3.1\MultiDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\MultiDelegates\MultiDelegates\obj\Debug\netcoreapp3.1\MultiDelegates.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\MultiDelegates\MultiDelegates\obj\Debug\netcoreapp3.1\MultiDelegates.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\MultiDelegates\MultiDelegates\obj\Debug\netcoreapp3.1\MultiDelegates.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\MultiDelegates\MultiDelegates\obj\Debug\netcoreapp3.1\MultiDelegates.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\MultiDelegates\MultiDelegates\obj\Debug\netcoreapp3.1\MultiDelegates.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\MultiDelegates\MultiDelegates\obj\Debug\netcoreapp3.1\MultiDelegates.genruntimeconfig.cache
