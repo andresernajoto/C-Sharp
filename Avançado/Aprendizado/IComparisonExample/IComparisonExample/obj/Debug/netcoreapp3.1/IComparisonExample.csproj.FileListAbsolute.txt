@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\IComparisonExample\IComparisonExample\bin\Debug\netcoreapp3.1\IComparisonExample.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\IComparisonExample\IComparisonExample\bin\Debug\netcoreapp3.1\IComparisonExample.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\IComparisonExample\IComparisonExample\bin\Debug\netcoreapp3.1\IComparisonExample.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\IComparisonExample\IComparisonExample\bin\Debug\netcoreapp3.1\IComparisonExample.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\IComparisonExample\IComparisonExample\bin\Debug\netcoreapp3.1\IComparisonExample.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\IComparisonExample\IComparisonExample\bin\Debug\netcoreapp3.1\IComparisonExample.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\IComparisonExample\IComparisonExample\obj\Debug\netcoreapp3.1\IComparisonExample.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\IComparisonExample\IComparisonExample\obj\Debug\netcoreapp3.1\IComparisonExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\IComparisonExample\IComparisonExample\obj\Debug\netcoreapp3.1\IComparisonExample.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\IComparisonExample\IComparisonExample\obj\Debug\netcoreapp3.1\IComparisonExample.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\IComparisonExample\IComparisonExample\obj\Debug\netcoreapp3.1\IComparisonExample.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\IComparisonExample\IComparisonExample\obj\Debug\netcoreapp3.1\IComparisonExample.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\IComparisonExample\IComparisonExample\obj\Debug\netcoreapp3.1\IComparisonExample.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\IComparisonExample\IComparisonExample\obj\Debug\netcoreapp3.1\IComparisonExample.genruntimeconfig.cache
