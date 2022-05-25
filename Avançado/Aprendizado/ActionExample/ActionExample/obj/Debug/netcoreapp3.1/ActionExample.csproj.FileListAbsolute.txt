@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\ActionExample\ActionExample\bin\Debug\netcoreapp3.1\ActionExample.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\ActionExample\ActionExample\bin\Debug\netcoreapp3.1\ActionExample.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\ActionExample\ActionExample\bin\Debug\netcoreapp3.1\ActionExample.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\ActionExample\ActionExample\bin\Debug\netcoreapp3.1\ActionExample.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\ActionExample\ActionExample\bin\Debug\netcoreapp3.1\ActionExample.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\ActionExample\ActionExample\bin\Debug\netcoreapp3.1\ActionExample.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\ActionExample\ActionExample\obj\Debug\netcoreapp3.1\ActionExample.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\ActionExample\ActionExample\obj\Debug\netcoreapp3.1\ActionExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\ActionExample\ActionExample\obj\Debug\netcoreapp3.1\ActionExample.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\ActionExample\ActionExample\obj\Debug\netcoreapp3.1\ActionExample.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\ActionExample\ActionExample\obj\Debug\netcoreapp3.1\ActionExample.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\ActionExample\ActionExample\obj\Debug\netcoreapp3.1\ActionExample.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\ActionExample\ActionExample\obj\Debug\netcoreapp3.1\ActionExample.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\ActionExample\ActionExample\obj\Debug\netcoreapp3.1\ActionExample.genruntimeconfig.cache
