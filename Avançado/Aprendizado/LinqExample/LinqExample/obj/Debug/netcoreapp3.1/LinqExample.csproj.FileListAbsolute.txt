@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqExample\LinqExample\bin\Debug\netcoreapp3.1\LinqExample.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqExample\LinqExample\bin\Debug\netcoreapp3.1\LinqExample.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqExample\LinqExample\bin\Debug\netcoreapp3.1\LinqExample.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqExample\LinqExample\bin\Debug\netcoreapp3.1\LinqExample.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqExample\LinqExample\bin\Debug\netcoreapp3.1\LinqExample.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqExample\LinqExample\bin\Debug\netcoreapp3.1\LinqExample.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqExample\LinqExample\obj\Debug\netcoreapp3.1\LinqExample.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqExample\LinqExample\obj\Debug\netcoreapp3.1\LinqExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqExample\LinqExample\obj\Debug\netcoreapp3.1\LinqExample.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqExample\LinqExample\obj\Debug\netcoreapp3.1\LinqExample.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqExample\LinqExample\obj\Debug\netcoreapp3.1\LinqExample.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqExample\LinqExample\obj\Debug\netcoreapp3.1\LinqExample.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqExample\LinqExample\obj\Debug\netcoreapp3.1\LinqExample.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqExample\LinqExample\obj\Debug\netcoreapp3.1\LinqExample.genruntimeconfig.cache
