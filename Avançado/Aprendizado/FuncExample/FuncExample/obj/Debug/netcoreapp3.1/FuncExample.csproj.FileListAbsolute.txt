@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\FuncExample\FuncExample\bin\Debug\netcoreapp3.1\FuncExample.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\FuncExample\FuncExample\bin\Debug\netcoreapp3.1\FuncExample.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\FuncExample\FuncExample\bin\Debug\netcoreapp3.1\FuncExample.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\FuncExample\FuncExample\bin\Debug\netcoreapp3.1\FuncExample.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\FuncExample\FuncExample\bin\Debug\netcoreapp3.1\FuncExample.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\FuncExample\FuncExample\bin\Debug\netcoreapp3.1\FuncExample.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\FuncExample\FuncExample\obj\Debug\netcoreapp3.1\FuncExample.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\FuncExample\FuncExample\obj\Debug\netcoreapp3.1\FuncExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\FuncExample\FuncExample\obj\Debug\netcoreapp3.1\FuncExample.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\FuncExample\FuncExample\obj\Debug\netcoreapp3.1\FuncExample.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\FuncExample\FuncExample\obj\Debug\netcoreapp3.1\FuncExample.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\FuncExample\FuncExample\obj\Debug\netcoreapp3.1\FuncExample.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\FuncExample\FuncExample\obj\Debug\netcoreapp3.1\FuncExample.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\FuncExample\FuncExample\obj\Debug\netcoreapp3.1\FuncExample.genruntimeconfig.cache
