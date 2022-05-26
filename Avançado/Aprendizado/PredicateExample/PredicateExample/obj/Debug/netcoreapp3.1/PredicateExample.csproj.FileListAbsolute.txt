@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\PredicateExample\PredicateExample\bin\Debug\netcoreapp3.1\PredicateExample.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\PredicateExample\PredicateExample\bin\Debug\netcoreapp3.1\PredicateExample.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\PredicateExample\PredicateExample\bin\Debug\netcoreapp3.1\PredicateExample.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\PredicateExample\PredicateExample\bin\Debug\netcoreapp3.1\PredicateExample.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\PredicateExample\PredicateExample\bin\Debug\netcoreapp3.1\PredicateExample.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\PredicateExample\PredicateExample\bin\Debug\netcoreapp3.1\PredicateExample.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\PredicateExample\PredicateExample\obj\Debug\netcoreapp3.1\PredicateExample.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\PredicateExample\PredicateExample\obj\Debug\netcoreapp3.1\PredicateExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\PredicateExample\PredicateExample\obj\Debug\netcoreapp3.1\PredicateExample.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\PredicateExample\PredicateExample\obj\Debug\netcoreapp3.1\PredicateExample.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\PredicateExample\PredicateExample\obj\Debug\netcoreapp3.1\PredicateExample.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\PredicateExample\PredicateExample\obj\Debug\netcoreapp3.1\PredicateExample.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\PredicateExample\PredicateExample\obj\Debug\netcoreapp3.1\PredicateExample.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\PredicateExample\PredicateExample\obj\Debug\netcoreapp3.1\PredicateExample.genruntimeconfig.cache
