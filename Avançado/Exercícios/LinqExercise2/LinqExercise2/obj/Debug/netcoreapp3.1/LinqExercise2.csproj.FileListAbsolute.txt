@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise2\LinqExercise2\bin\Debug\netcoreapp3.1\LinqExercise2.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise2\LinqExercise2\bin\Debug\netcoreapp3.1\LinqExercise2.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise2\LinqExercise2\bin\Debug\netcoreapp3.1\LinqExercise2.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise2\LinqExercise2\bin\Debug\netcoreapp3.1\LinqExercise2.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise2\LinqExercise2\bin\Debug\netcoreapp3.1\LinqExercise2.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise2\LinqExercise2\bin\Debug\netcoreapp3.1\LinqExercise2.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise2\LinqExercise2\obj\Debug\netcoreapp3.1\LinqExercise2.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise2\LinqExercise2\obj\Debug\netcoreapp3.1\LinqExercise2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise2\LinqExercise2\obj\Debug\netcoreapp3.1\LinqExercise2.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise2\LinqExercise2\obj\Debug\netcoreapp3.1\LinqExercise2.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise2\LinqExercise2\obj\Debug\netcoreapp3.1\LinqExercise2.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise2\LinqExercise2\obj\Debug\netcoreapp3.1\LinqExercise2.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise2\LinqExercise2\obj\Debug\netcoreapp3.1\LinqExercise2.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise2\LinqExercise2\obj\Debug\netcoreapp3.1\LinqExercise2.genruntimeconfig.cache
