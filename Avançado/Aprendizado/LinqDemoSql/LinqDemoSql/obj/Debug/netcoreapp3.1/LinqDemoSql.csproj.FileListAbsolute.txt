@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqDemoSql\LinqDemoSql\bin\Debug\netcoreapp3.1\LinqDemoSql.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqDemoSql\LinqDemoSql\bin\Debug\netcoreapp3.1\LinqDemoSql.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqDemoSql\LinqDemoSql\bin\Debug\netcoreapp3.1\LinqDemoSql.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqDemoSql\LinqDemoSql\bin\Debug\netcoreapp3.1\LinqDemoSql.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqDemoSql\LinqDemoSql\bin\Debug\netcoreapp3.1\LinqDemoSql.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqDemoSql\LinqDemoSql\bin\Debug\netcoreapp3.1\LinqDemoSql.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqDemoSql\LinqDemoSql\obj\Debug\netcoreapp3.1\LinqDemoSql.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqDemoSql\LinqDemoSql\obj\Debug\netcoreapp3.1\LinqDemoSql.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqDemoSql\LinqDemoSql\obj\Debug\netcoreapp3.1\LinqDemoSql.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqDemoSql\LinqDemoSql\obj\Debug\netcoreapp3.1\LinqDemoSql.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqDemoSql\LinqDemoSql\obj\Debug\netcoreapp3.1\LinqDemoSql.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqDemoSql\LinqDemoSql\obj\Debug\netcoreapp3.1\LinqDemoSql.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqDemoSql\LinqDemoSql\obj\Debug\netcoreapp3.1\LinqDemoSql.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Aprendizado\LinqDemoSql\LinqDemoSql\obj\Debug\netcoreapp3.1\LinqDemoSql.genruntimeconfig.cache
