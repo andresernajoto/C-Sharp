@@ -1,0 +1,14 @@
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise1\LinqExercise1\bin\Debug\netcoreapp3.1\LinqExercise1.exe
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise1\LinqExercise1\bin\Debug\netcoreapp3.1\LinqExercise1.deps.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise1\LinqExercise1\bin\Debug\netcoreapp3.1\LinqExercise1.runtimeconfig.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise1\LinqExercise1\bin\Debug\netcoreapp3.1\LinqExercise1.runtimeconfig.dev.json
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise1\LinqExercise1\bin\Debug\netcoreapp3.1\LinqExercise1.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise1\LinqExercise1\bin\Debug\netcoreapp3.1\LinqExercise1.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise1\LinqExercise1\obj\Debug\netcoreapp3.1\LinqExercise1.csproj.AssemblyReference.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise1\LinqExercise1\obj\Debug\netcoreapp3.1\LinqExercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise1\LinqExercise1\obj\Debug\netcoreapp3.1\LinqExercise1.AssemblyInfoInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise1\LinqExercise1\obj\Debug\netcoreapp3.1\LinqExercise1.AssemblyInfo.cs
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise1\LinqExercise1\obj\Debug\netcoreapp3.1\LinqExercise1.csproj.CoreCompileInputs.cache
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise1\LinqExercise1\obj\Debug\netcoreapp3.1\LinqExercise1.dll
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise1\LinqExercise1\obj\Debug\netcoreapp3.1\LinqExercise1.pdb
+D:\.Downloads\Andre\Estudos\Programming\C#\Avançado\Exercícios\LinqExercise1\LinqExercise1\obj\Debug\netcoreapp3.1\LinqExercise1.genruntimeconfig.cache
